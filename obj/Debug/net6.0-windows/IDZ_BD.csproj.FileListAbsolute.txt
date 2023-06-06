@@ -1,0 +1,69 @@
+C:\Users\User\Documents\Базы данных\IDZ_BD\bin\Debug\net6.0-windows\IDZ_BD.exe
+C:\Users\User\Documents\Базы данных\IDZ_BD\bin\Debug\net6.0-windows\IDZ_BD.deps.json
+C:\Users\User\Documents\Базы данных\IDZ_BD\bin\Debug\net6.0-windows\IDZ_BD.runtimeconfig.json
+C:\Users\User\Documents\Базы данных\IDZ_BD\bin\Debug\net6.0-windows\IDZ_BD.dll
+C:\Users\User\Documents\Базы данных\IDZ_BD\bin\Debug\net6.0-windows\IDZ_BD.pdb
+C:\Users\User\Documents\Базы данных\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Базы данных\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.Form1.resources
+C:\Users\User\Documents\Базы данных\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.csproj.GenerateResource.cache
+C:\Users\User\Documents\Базы данных\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Базы данных\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Базы данных\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.AssemblyInfo.cs
+C:\Users\User\Documents\Базы данных\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Базы данных\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.dll
+C:\Users\User\Documents\Базы данных\IDZ_BD\obj\Debug\net6.0-windows\refint\IDZ_BD.dll
+C:\Users\User\Documents\Базы данных\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.pdb
+C:\Users\User\Documents\Базы данных\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.genruntimeconfig.cache
+C:\Users\User\Documents\Базы данных\IDZ_BD\obj\Debug\net6.0-windows\ref\IDZ_BD.dll
+C:\Users\User\Documents\Базы данных\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.Properties.Resources.resources
+C:\Users\User\Documents\Базы данных\IDZ_BD\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Documents\Базы данных\IDZ_BD\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\User\Documents\Базы данных\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.csproj.CopyComplete
+C:\Users\User\Documents\Базы данных\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.client_insert_form.resources
+C:\Users\User\source\repos\IDZ_BD\bin\Debug\net6.0-windows\IDZ_BD.exe
+C:\Users\User\source\repos\IDZ_BD\bin\Debug\net6.0-windows\IDZ_BD.deps.json
+C:\Users\User\source\repos\IDZ_BD\bin\Debug\net6.0-windows\IDZ_BD.runtimeconfig.json
+C:\Users\User\source\repos\IDZ_BD\bin\Debug\net6.0-windows\IDZ_BD.dll
+C:\Users\User\source\repos\IDZ_BD\bin\Debug\net6.0-windows\IDZ_BD.pdb
+C:\Users\User\source\repos\IDZ_BD\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\IDZ_BD\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\User\source\repos\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.Form1.resources
+C:\Users\User\source\repos\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.client_insert_form.resources
+C:\Users\User\source\repos\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.Properties.Resources.resources
+C:\Users\User\source\repos\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.csproj.GenerateResource.cache
+C:\Users\User\source\repos\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.AssemblyInfo.cs
+C:\Users\User\source\repos\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.csproj.CopyComplete
+C:\Users\User\source\repos\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.dll
+C:\Users\User\source\repos\IDZ_BD\obj\Debug\net6.0-windows\refint\IDZ_BD.dll
+C:\Users\User\source\repos\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.pdb
+C:\Users\User\source\repos\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.genruntimeconfig.cache
+C:\Users\User\source\repos\IDZ_BD\obj\Debug\net6.0-windows\ref\IDZ_BD.dll
+C:\Users\User\source\repos\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.DetailInsert.resources
+C:\Users\User\source\repos\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.DeviceInsert.resources
+C:\Users\User\source\repos\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.WorkerInsert.resources
+C:\Users\User\source\repos\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.RepairInsert.resources
+C:\Users\User\source\repos\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.ServiceInsert.resources
+C:\Users\User\source\repos\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.Form3.resources
+C:\Users\User\source\repos\IDZ_BD\obj\Debug\net6.0-windows\IDZ_BD.UpdateOrder.resources
+C:\Users\User\source\repos\IDZ_BD\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\User\source\repos\IDZ_BD\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\User\source\repos\IDZ_BD\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\User\source\repos\IDZ_BD\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\User\source\repos\IDZ_BD\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\IDZ_BD\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\User\source\repos\IDZ_BD\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\User\source\repos\IDZ_BD\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\source\repos\IDZ_BD\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\User\source\repos\IDZ_BD\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\User\source\repos\IDZ_BD\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\IDZ_BD\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\User\source\repos\IDZ_BD\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\source\repos\IDZ_BD\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\source\repos\IDZ_BD\bin\Debug\net6.0-windows\PdfSharp.Charting.dll
+C:\Users\User\source\repos\IDZ_BD\bin\Debug\net6.0-windows\PdfSharp.dll
+C:\Users\User\source\repos\IDZ_BD\bin\Debug\net6.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\User\source\repos\IDZ_BD\bin\Debug\net6.0-windows\de\PdfSharp.resources.dll
